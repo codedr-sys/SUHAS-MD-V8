@@ -15,8 +15,8 @@
 
 
 
-// * Project name - SUHAS- MD 
-// * Author - Suhas Pathsindu
+// * Project name - Mafigo- MD 
+// * Author - Mafigo Simon
 // * Team - Suhas Bro 
 // * Version - V2
 
